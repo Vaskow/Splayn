@@ -1,0 +1,20 @@
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\bin\Debug\Splayn.exe.config
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\bin\Debug\Splayn.exe
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\bin\Debug\Splayn.pdb
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\obj\Debug\Splayn.csprojAssemblyReference.cache
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\obj\Debug\Splayn.Form1.resources
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\obj\Debug\Splayn.Properties.Resources.resources
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\obj\Debug\Splayn.csproj.GenerateResource.cache
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\obj\Debug\Splayn.csproj.CoreCompileInputs.cache
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\obj\Debug\Splayn.exe
+C:\Users\Vlad_PC\source\repos\Splayn\Splayn\obj\Debug\Splayn.pdb
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\bin\Debug\Splayn.exe.config
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\bin\Debug\Splayn.exe
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\bin\Debug\Splayn.pdb
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\obj\Debug\Splayn.csprojAssemblyReference.cache
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\obj\Debug\Splayn.Form1.resources
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\obj\Debug\Splayn.Properties.Resources.resources
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\obj\Debug\Splayn.csproj.GenerateResource.cache
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\obj\Debug\Splayn.csproj.CoreCompileInputs.cache
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\obj\Debug\Splayn.exe
+C:\Users\Vlad_PC\Desktop\Splayn 2.0\Splayn\obj\Debug\Splayn.pdb
